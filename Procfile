@@ -1,1 +1,1 @@
-worker: Genesis bot.js
+worker: genesis bot.js
