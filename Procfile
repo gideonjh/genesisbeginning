@@ -1,0 +1,1 @@
+worker: Genesis bot.js
